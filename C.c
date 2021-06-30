@@ -1,5 +1,5 @@
 #include<stdio.h>
 void main()
 {
-   printf("HELLLO HI");
+   printf("This is new Logic");
 }
